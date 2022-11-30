@@ -1,2 +1,0 @@
-# .github
-Juncture Digital Profile
